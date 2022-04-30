@@ -1,7 +1,8 @@
-### Hi there 👋
+![John Zhang's GitHub stats](https://github-readme-stats-johnzhang508.vercel.app/api?username=JohnZhang508&show_icons=true)
 
 <!--
 **JohnZhang508/JohnZhang508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
